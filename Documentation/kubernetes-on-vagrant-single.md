@@ -14,7 +14,7 @@ Navigate to the [Vagrant downloads page][vagrant-downloads] and grab the appropr
 
 ### kubectl
 
-`kubectl` is the main program for interacting with the Kubernetes API. Download `kubectl` from the Kubernetes release artifact site with the `curl` tool.
+`kubectl` is the main program for interacting with the Kubernetes API. Download `kubectl` from the Kubernetes github release site with the `curl` tool.
 
 The linux `kubectl` binary can be fetched with a command like:
 
